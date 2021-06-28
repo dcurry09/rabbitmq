@@ -1,0 +1,2 @@
+# rabbitmq
+Sandbox for RabbitMQ
